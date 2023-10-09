@@ -1,0 +1,6 @@
+﻿  Lab4.cpp
+E:\osisp\lab4\Lab4\Lab4.cpp(44,7): warning C4101: rect: неиспользованная локальная переменная
+E:\osisp\lab4\Lab4\Lab4.cpp(209,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\osisp\lab4\Lab4\Lab4.cpp(228,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\osisp\lab4\Lab4\Lab4.cpp(182): warning C4715: SoftwareMainProcedure: значение возвращается не при всех путях выполнения
+  Lab4.vcxproj -> E:\osisp\lab4\Lab4\x64\Debug\Lab4.exe
