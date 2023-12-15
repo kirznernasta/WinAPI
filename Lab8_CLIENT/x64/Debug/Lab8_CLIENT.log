@@ -1,0 +1,5 @@
+﻿  Lab8_CLIENT.cpp
+C:\Users\kirzn\Desktop\lab7-8\Lab8_CLIENT\Lab8_CLIENT.cpp(49,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kirzn\Desktop\lab7-8\Lab8_CLIENT\Lab8_CLIENT.cpp(53,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kirzn\Desktop\lab7-8\Lab8_CLIENT\Lab8_CLIENT.cpp(113,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab8_CLIENT.vcxproj -> C:\Users\kirzn\Desktop\lab7-8\Lab8_CLIENT\x64\Debug\Lab8_CLIENT.exe
