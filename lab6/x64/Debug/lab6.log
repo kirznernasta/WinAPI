@@ -1,0 +1,4 @@
+﻿  lab6.cpp
+C:\Users\kirzn\Desktop\lab5\lab6\lab6\lab6.cpp(79,92): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+C:\Users\kirzn\Desktop\lab5\lab6\lab6\lab6.cpp(83,92): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  lab6.vcxproj -> C:\Users\kirzn\Desktop\lab5\lab6\lab6\x64\Debug\lab6.exe
