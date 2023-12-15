@@ -1,0 +1,4 @@
+﻿  Lab8_SERVER.cpp
+C:\Users\kirzn\Desktop\lab7-8\Lab8_SERVER\Lab8_SERVER.cpp(46,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kirzn\Desktop\lab7-8\Lab8_SERVER\Lab8_SERVER.cpp(102,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab8_SERVER.vcxproj -> C:\Users\kirzn\Desktop\lab7-8\Lab8_SERVER\x64\Debug\Lab8_SERVER.exe
